@@ -4,9 +4,9 @@ Null Squad Office Solutions is a complete core PHP and MySQL e-commerce website 
 
 ## Company and Group
 
-Company name: PrimeDesk Office Solutions
+Company name: Null Squad Office Solutions
 
-Group name: Roxas Office Systems Group
+Group name: Null Squad Office Systems Group
 
 Members:
 
