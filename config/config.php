@@ -17,10 +17,11 @@ define('EDUCATIONAL_FOOTER', 'This website is for educational purposes only and 
 
 define('BASE_URL', '');
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'primedesk_ecommerce');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
+define('DB_PORT', getenv('DB_PORT') ?: '3306');
+define('DB_NAME', getenv('DB_NAME') ?: 'sql12833365');
+define('DB_USER', getenv('DB_USER') ?: 'root');
+define('DB_PASS', getenv('DB_PASS') ?: '');
 
 define('MAIL_FROM_EMAIL', 'no-reply@nullsquad.local');
 define('MAIL_FROM_NAME', APP_NAME);
