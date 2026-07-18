@@ -1,6 +1,6 @@
-# PrimeDesk Office Solutions
+# Null Squad Office Solutions
 
-PrimeDesk Office Solutions is a complete core PHP and MySQL e-commerce website for office equipment. It uses PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap 5, sessions, prepared statements, CSRF tokens, password hashing, form validation, file upload validation, and audit logs.
+Null Squad Office Solutions is a complete core PHP and MySQL e-commerce website for office equipment. It uses PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap 5, sessions, prepared statements, CSRF tokens, password hashing, form validation, file upload validation, and audit logs.
 
 ## Company and Group
 
